@@ -5,7 +5,7 @@ Full project solution for the:
 
 > Additional support material at
 > 
-> https://ethereum-blockchain-developer.com/110-upgrade-smart-contracts/00-project/
+> https://ethereum-blockchain-developer.com/060-tokenization/00-overview/
 
 ## Final Assignment
 * Added mintable version of the token
